@@ -1,4 +1,17 @@
-## 🖐 Hand Gesture Recognition for PowerPoint 🎤
+<h1 align="center">🖐 Hệ thống nhận diện cử chỉ tay trong thời
+gian thực để điều khiển trình chiếu PowerPoint🎤 </h1>
+<div align="center">
+
+<p align="center">
+  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
+  <img src="images/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+</p>
+
+[![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Fit DNU](https://img.shields.io/badge/Fit%20DNU-green?style=for-the-badge)](https://fitdnu.net/)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
+</div>
+
 Dự án này sử dụng **MediaPipe**, **TensorFlow**, **OpenCV** và **PyAutoGUI** để nhận diện cử chỉ tay và điều khiển PowerPoint thông qua webcam. **Mô hình GAFormer** được huấn luyện để nhận diện **8 cử chỉ tay** khác nhau nhằm thực hiện các thao tác trên **PowerPoint** như chuyển slide, bắt đầu trình chiếu, tạm dừng, v.v.
 
 ## 🎯 Tính năng chính
